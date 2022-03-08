@@ -1,0 +1,43 @@
+_repo: The-Homosexual-Neurosis_67557
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Van Teslaar, James S. (James Samuel)
+    aliases:
+    - Teslaar, J. S. Van (James Samuel Van)
+    - Teslaar, James S. Van (James Samuel Van)
+    birthdate: 1886
+    deathdate: 1940
+    gutenberg_agent_id: '53855'
+    url: http://www.gutenberg.org/2009/agents/53855
+creator:
+  author:
+    agent_name: Stekel, Wilhelm
+    aliases:
+    - Stekel, William
+    - Serenus
+    - Bojan, Willy
+    birthdate: 1868
+    deathdate: 1940
+    gutenberg_agent_id: '49285'
+    url: http://www.gutenberg.org/2009/agents/49285
+    wikipedia: https://en.wikipedia.org/wiki/Wilhelm_Stekel
+description: ''
+gutenberg_issued: '2022-03-04'
+identifiers:
+  gutenberg: '67557'
+language: en
+pgterms:marc904: https://archive.org/details/homosexualneuro00teslgoog
+pgterms:marc905: 20180411130219stekel
+pgterms:marc906: '1922'
+pgterms:marc907: US
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: United States :Richard G. Badger,1922.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Homosexual Neurosis
+url: http://www.gutenberg.org/ebooks/67557
